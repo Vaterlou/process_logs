@@ -1,0 +1,3 @@
+/Users/denisgoncarov/Documents/Projects/process_logs/build/CMakeFiles/rebuild_cache.dir
+/Users/denisgoncarov/Documents/Projects/process_logs/build/CMakeFiles/edit_cache.dir
+/Users/denisgoncarov/Documents/Projects/process_logs/build/CMakeFiles/logs.dir
